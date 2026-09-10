@@ -1,0 +1,2192 @@
+{
+  "nodes": [
+    {
+      "id": "AD001",
+      "location": "old mill quarter",
+      "timestamp": "2024-01-11 12:14:37.526051"
+    },
+    {
+      "id": "AD002",
+      "location": "eastgate",
+      "timestamp": "2024-01-11 12:49:05.276177"
+    },
+    {
+      "id": "AD003",
+      "location": "north terminal",
+      "timestamp": "2024-01-13 03:27:32.804893"
+    },
+    {
+      "id": "AD004",
+      "location": "riverside district",
+      "timestamp": "2024-01-10 20:08:43.866628"
+    },
+    {
+      "id": "AD005",
+      "location": "harbor point",
+      "timestamp": "2024-01-11 18:22:41.261661"
+    },
+    {
+      "id": "AD006",
+      "location": "lakeside",
+      "timestamp": "2024-01-17 01:32:30.995207"
+    },
+    {
+      "id": "AD007",
+      "location": "old mill quarter",
+      "timestamp": "2024-01-12 00:17:39.960165"
+    },
+    {
+      "id": "AD008",
+      "location": "midtown",
+      "timestamp": "2024-01-10 21:06:14.681595"
+    },
+    {
+      "id": "AD009",
+      "location": "riverside district",
+      "timestamp": "2024-01-18 01:18:04.357488"
+    },
+    {
+      "id": "AD010",
+      "location": "riverside district",
+      "timestamp": "2024-01-12 04:40:18.201998"
+    },
+    {
+      "id": "AD011",
+      "location": "union square",
+      "timestamp": "2024-01-15 15:57:14.172674"
+    },
+    {
+      "id": "AD012",
+      "location": "lakeside",
+      "timestamp": "2024-01-12 16:17:28.643066"
+    },
+    {
+      "id": "AD013",
+      "location": "midtown",
+      "timestamp": "2024-01-13 00:47:37.519363"
+    },
+    {
+      "id": "AD014",
+      "location": "riverside district",
+      "timestamp": "2024-01-10 19:43:40.113436"
+    },
+    {
+      "id": "AD015",
+      "location": "old mill quarter",
+      "timestamp": "2024-01-17 07:47:42.071044"
+    },
+    {
+      "id": "AD016",
+      "location": "riverside district",
+      "timestamp": "2024-01-15 05:17:57.592450"
+    },
+    {
+      "id": "AD017",
+      "location": "harbor point",
+      "timestamp": "2024-01-13 19:17:44.731601"
+    },
+    {
+      "id": "AD018",
+      "location": "eastgate",
+      "timestamp": "2024-01-11 10:30:32.071633"
+    },
+    {
+      "id": "AD019",
+      "location": "old mill quarter",
+      "timestamp": "2024-01-11 15:50:24.632554"
+    },
+    {
+      "id": "AD020",
+      "location": "midtown",
+      "timestamp": "2024-01-11 17:56:41.215670"
+    },
+    {
+      "id": "AD021",
+      "location": "union square",
+      "timestamp": "2024-01-11 05:55:18.259282"
+    },
+    {
+      "id": "AD022",
+      "location": "north terminal",
+      "timestamp": "2024-01-13 17:42:42.175728"
+    },
+    {
+      "id": "AD023",
+      "location": "riverside district",
+      "timestamp": "2024-01-19 19:32:33.584045"
+    },
+    {
+      "id": "AD024",
+      "location": "north terminal",
+      "timestamp": "2024-01-15 02:00:23.879136"
+    },
+    {
+      "id": "AD025",
+      "location": "lakeside",
+      "timestamp": "2024-01-16 08:47:56.764365"
+    },
+    {
+      "id": "AD026",
+      "location": "harbor point",
+      "timestamp": "2024-01-10 14:28:34.792241"
+    },
+    {
+      "id": "AD027",
+      "location": "riverside district",
+      "timestamp": "2024-01-15 03:48:59.851734"
+    },
+    {
+      "id": "AD028",
+      "location": "lakeside",
+      "timestamp": "2024-01-13 10:39:51.175981"
+    },
+    {
+      "id": "AD029",
+      "location": "lakeside",
+      "timestamp": "2024-01-12 13:58:23.316271"
+    },
+    {
+      "id": "AD030",
+      "location": "union square",
+      "timestamp": "2024-01-15 19:44:28.215248"
+    },
+    {
+      "id": "AD031",
+      "location": "union square",
+      "timestamp": "2024-01-13 07:53:45.828429"
+    },
+    {
+      "id": "AD032",
+      "location": "north terminal",
+      "timestamp": "2024-01-10 18:36:22.014424"
+    },
+    {
+      "id": "AD033",
+      "location": "harbor point",
+      "timestamp": "2024-01-14 02:12:44.587430"
+    },
+    {
+      "id": "AD034",
+      "location": "old mill quarter",
+      "timestamp": "2024-01-16 12:24:52.201185"
+    },
+    {
+      "id": "AD035",
+      "location": "harbor point",
+      "timestamp": "2024-01-12 14:31:39.823604"
+    },
+    {
+      "id": "AD036",
+      "location": "lakeside",
+      "timestamp": "2024-01-13 08:45:25.931494"
+    },
+    {
+      "id": "AD037",
+      "location": "eastgate",
+      "timestamp": "2024-01-15 08:10:26.290863"
+    },
+    {
+      "id": "AD038",
+      "location": "riverside district",
+      "timestamp": "2024-01-13 09:31:02.346624"
+    },
+    {
+      "id": "AD039",
+      "location": "riverside district",
+      "timestamp": "2024-01-12 09:35:25.872184"
+    },
+    {
+      "id": "AD040",
+      "location": "old mill quarter",
+      "timestamp": "2024-01-19 16:52:37.826858"
+    },
+    {
+      "id": "AD041",
+      "location": "midtown",
+      "timestamp": "2024-01-10 15:49:55.932443"
+    },
+    {
+      "id": "AD042",
+      "location": "eastgate",
+      "timestamp": "2024-01-12 17:16:05.882956"
+    },
+    {
+      "id": "AD043",
+      "location": "riverside district",
+      "timestamp": "2024-01-10 17:29:13.240273"
+    },
+    {
+      "id": "AD044",
+      "location": "midtown",
+      "timestamp": "2024-01-12 22:09:09.448193"
+    },
+    {
+      "id": "AD045",
+      "location": "harbor point",
+      "timestamp": "2024-01-12 07:02:05.861235"
+    },
+    {
+      "id": "AD046",
+      "location": "midtown",
+      "timestamp": "2024-01-10 16:41:05.336810"
+    },
+    {
+      "id": "AD047",
+      "location": "harbor point",
+      "timestamp": "2024-01-10 09:22:31.157714"
+    },
+    {
+      "id": "AD048",
+      "location": "riverside district",
+      "timestamp": "2024-01-12 15:30:47.185071"
+    },
+    {
+      "id": "AD049",
+      "location": "harbor point",
+      "timestamp": "2024-01-11 04:59:56.175347"
+    },
+    {
+      "id": "AD050",
+      "location": "north terminal",
+      "timestamp": "2024-01-12 09:24:50.252387"
+    }
+  ],
+  "edges": [
+    {
+      "source": "AD001",
+      "target": "AD019",
+      "score": 0.6263,
+      "text": 0.671,
+      "visual": 0.5619,
+      "identifier": 0.28,
+      "temporal": 0.9625,
+      "behaviour": 0.875,
+      "graph_context": 0.2857
+    },
+    {
+      "source": "AD001",
+      "target": "AD007",
+      "score": 0.5872,
+      "text": 0.2135,
+      "visual": 0.9704,
+      "identifier": 0.7,
+      "temporal": 0.8745,
+      "behaviour": 0.5,
+      "graph_context": 0.2857
+    },
+    {
+      "source": "AD001",
+      "target": "AD018",
+      "score": 0.5462,
+      "text": 0.0,
+      "visual": 0.9905,
+      "identifier": 0.7,
+      "temporal": 0.9819,
+      "behaviour": 0.4167,
+      "graph_context": 0.3333
+    },
+    {
+      "source": "AD001",
+      "target": "AD002",
+      "score": 0.5036,
+      "text": 0.0162,
+      "visual": 0.994,
+      "identifier": 0.4,
+      "temporal": 0.994,
+      "behaviour": 0.5,
+      "graph_context": 0.1667
+    },
+    {
+      "source": "AD002",
+      "target": "AD018",
+      "score": 0.5735,
+      "text": 0.1033,
+      "visual": 0.9839,
+      "identifier": 0.28,
+      "temporal": 0.9759,
+      "behaviour": 0.9167,
+      "graph_context": 0.25
+    },
+    {
+      "source": "AD002",
+      "target": "AD007",
+      "score": 0.4278,
+      "text": 0.0397,
+      "visual": 0.9689,
+      "identifier": 0.28,
+      "temporal": 0.8805,
+      "behaviour": 0.0,
+      "graph_context": 0.5
+    },
+    {
+      "source": "AD003",
+      "target": "AD022",
+      "score": 0.609,
+      "text": 0.2335,
+      "visual": 0.9918,
+      "identifier": 0.58,
+      "temporal": 0.8515,
+      "behaviour": 0.5833,
+      "graph_context": 0.5
+    },
+    {
+      "source": "AD003",
+      "target": "AD028",
+      "score": 0.5968,
+      "text": 0.3667,
+      "visual": 0.9906,
+      "identifier": 0.58,
+      "temporal": 0.9249,
+      "behaviour": 0.2083,
+      "graph_context": 0.5
+    },
+    {
+      "source": "AD003",
+      "target": "AD012",
+      "score": 0.473,
+      "text": 0.025,
+      "visual": 0.9906,
+      "identifier": 0.58,
+      "temporal": 0.8837,
+      "behaviour": 0.0417,
+      "graph_context": 0.4286
+    },
+    {
+      "source": "AD003",
+      "target": "AD050",
+      "score": 0.4345,
+      "text": 1.0,
+      "visual": -0.459,
+      "identifier": 0.28,
+      "temporal": 0.812,
+      "behaviour": 0.75,
+      "graph_context": 0.0
+    },
+    {
+      "source": "AD003",
+      "target": "AD029",
+      "score": 0.4223,
+      "text": 0.0,
+      "visual": 0.98,
+      "identifier": 0.28,
+      "temporal": 0.8595,
+      "behaviour": 0.0833,
+      "graph_context": 0.4286
+    },
+    {
+      "source": "AD004",
+      "target": "AD043",
+      "score": 0.656,
+      "text": 0.1608,
+      "visual": 0.9537,
+      "identifier": 0.52,
+      "temporal": 0.9723,
+      "behaviour": 0.875,
+      "graph_context": 0.7
+    },
+    {
+      "source": "AD004",
+      "target": "AD014",
+      "score": 0.6216,
+      "text": 0.15,
+      "visual": 0.9556,
+      "identifier": 0.28,
+      "temporal": 0.9956,
+      "behaviour": 0.9583,
+      "graph_context": 0.5789
+    },
+    {
+      "source": "AD004",
+      "target": "AD048",
+      "score": 0.611,
+      "text": 0.1054,
+      "visual": 0.9699,
+      "identifier": 0.82,
+      "temporal": 0.5483,
+      "behaviour": 0.7917,
+      "graph_context": 0.6667
+    },
+    {
+      "source": "AD004",
+      "target": "AD010",
+      "score": 0.6073,
+      "text": 0.1172,
+      "visual": 0.9541,
+      "identifier": 0.82,
+      "temporal": 0.6612,
+      "behaviour": 0.6667,
+      "graph_context": 0.65
+    },
+    {
+      "source": "AD004",
+      "target": "AD049",
+      "score": 0.6012,
+      "text": 0.6142,
+      "visual": 0.9973,
+      "identifier": 0.28,
+      "temporal": 0.9078,
+      "behaviour": 0.1667,
+      "graph_context": 0.45
+    },
+    {
+      "source": "AD004",
+      "target": "AD045",
+      "score": 0.5829,
+      "text": 0.3681,
+      "visual": 0.9622,
+      "identifier": 0.82,
+      "temporal": 0.6366,
+      "behaviour": 0.0417,
+      "graph_context": 0.7368
+    },
+    {
+      "source": "AD004",
+      "target": "AD008",
+      "score": 0.5627,
+      "text": 0.0,
+      "visual": 0.9688,
+      "identifier": 0.52,
+      "temporal": 0.99,
+      "behaviour": 0.4583,
+      "graph_context": 0.7368
+    },
+    {
+      "source": "AD004",
+      "target": "AD044",
+      "score": 0.5211,
+      "text": 0.0195,
+      "visual": 0.952,
+      "identifier": 0.82,
+      "temporal": 0.4791,
+      "behaviour": 0.4167,
+      "graph_context": 0.6842
+    },
+    {
+      "source": "AD004",
+      "target": "AD038",
+      "score": 0.5091,
+      "text": 0.1608,
+      "visual": 0.9579,
+      "identifier": 0.58,
+      "temporal": 0.3607,
+      "behaviour": 0.5417,
+      "graph_context": 0.55
+    },
+    {
+      "source": "AD004",
+      "target": "AD013",
+      "score": 0.5013,
+      "text": 0.0195,
+      "visual": 0.9889,
+      "identifier": 0.82,
+      "temporal": 0.4516,
+      "behaviour": 0.3333,
+      "graph_context": 0.5789
+    },
+    {
+      "source": "AD004",
+      "target": "AD047",
+      "score": 0.4975,
+      "text": 0.0,
+      "visual": 0.9608,
+      "identifier": 0.58,
+      "temporal": 0.8878,
+      "behaviour": 0.0417,
+      "graph_context": 0.7895
+    },
+    {
+      "source": "AD004",
+      "target": "AD026",
+      "score": 0.4888,
+      "text": 0.6142,
+      "visual": 0.4481,
+      "identifier": 0.28,
+      "temporal": 0.9409,
+      "behaviour": 0.25,
+      "graph_context": 0.25
+    },
+    {
+      "source": "AD004",
+      "target": "AD005",
+      "score": 0.4887,
+      "text": 0.0,
+      "visual": 0.9501,
+      "identifier": 0.28,
+      "temporal": 0.7684,
+      "behaviour": 0.4167,
+      "graph_context": 0.7895
+    },
+    {
+      "source": "AD004",
+      "target": "AD041",
+      "score": 0.4847,
+      "text": 0.0,
+      "visual": 0.9626,
+      "identifier": 0.28,
+      "temporal": 0.9551,
+      "behaviour": 0.2917,
+      "graph_context": 0.6316
+    },
+    {
+      "source": "AD004",
+      "target": "AD020",
+      "score": 0.4745,
+      "text": 0.0,
+      "visual": 0.9595,
+      "identifier": 0.28,
+      "temporal": 0.7729,
+      "behaviour": 0.375,
+      "graph_context": 0.6842
+    },
+    {
+      "source": "AD004",
+      "target": "AD046",
+      "score": 0.4737,
+      "text": 0.0,
+      "visual": 0.9356,
+      "identifier": 0.28,
+      "temporal": 0.964,
+      "behaviour": 0.3333,
+      "graph_context": 0.5
+    },
+    {
+      "source": "AD004",
+      "target": "AD035",
+      "score": 0.4646,
+      "text": 0.021,
+      "visual": 0.9671,
+      "identifier": 0.52,
+      "temporal": 0.5585,
+      "behaviour": 0.25,
+      "graph_context": 0.6667
+    },
+    {
+      "source": "AD004",
+      "target": "AD017",
+      "score": 0.4421,
+      "text": 0.0,
+      "visual": 0.9668,
+      "identifier": 0.52,
+      "temporal": 0.2589,
+      "behaviour": 0.4583,
+      "graph_context": 0.6316
+    },
+    {
+      "source": "AD005",
+      "target": "AD047",
+      "score": 0.6917,
+      "text": 0.7672,
+      "visual": 0.9395,
+      "identifier": 0.28,
+      "temporal": 0.6562,
+      "behaviour": 0.625,
+      "graph_context": 0.7778
+    },
+    {
+      "source": "AD005",
+      "target": "AD020",
+      "score": 0.6449,
+      "text": 0.5392,
+      "visual": 0.9167,
+      "identifier": 0.28,
+      "temporal": 0.9955,
+      "behaviour": 0.4583,
+      "graph_context": 0.6667
+    },
+    {
+      "source": "AD005",
+      "target": "AD043",
+      "score": 0.6107,
+      "text": 0.5439,
+      "visual": 0.9224,
+      "identifier": 0.28,
+      "temporal": 0.7407,
+      "behaviour": 0.4583,
+      "graph_context": 0.6842
+    },
+    {
+      "source": "AD005",
+      "target": "AD035",
+      "score": 0.5848,
+      "text": 0.1989,
+      "visual": 0.9622,
+      "identifier": 0.28,
+      "temporal": 0.7901,
+      "behaviour": 0.8333,
+      "graph_context": 0.5714
+    },
+    {
+      "source": "AD005",
+      "target": "AD045",
+      "score": 0.5524,
+      "text": 0.1853,
+      "visual": 0.9472,
+      "identifier": 0.28,
+      "temporal": 0.8682,
+      "behaviour": 0.5417,
+      "graph_context": 0.6316
+    },
+    {
+      "source": "AD005",
+      "target": "AD014",
+      "score": 0.5494,
+      "text": 0.3303,
+      "visual": 0.9295,
+      "identifier": 0.28,
+      "temporal": 0.7641,
+      "behaviour": 0.4583,
+      "graph_context": 0.5556
+    },
+    {
+      "source": "AD005",
+      "target": "AD017",
+      "score": 0.5426,
+      "text": 0.1525,
+      "visual": 0.9628,
+      "identifier": 0.28,
+      "temporal": 0.4904,
+      "behaviour": 0.9583,
+      "graph_context": 0.5263
+    },
+    {
+      "source": "AD005",
+      "target": "AD049",
+      "score": 0.5403,
+      "text": 0.1984,
+      "visual": 0.9499,
+      "identifier": 0.28,
+      "temporal": 0.8606,
+      "behaviour": 0.5833,
+      "graph_context": 0.4211
+    },
+    {
+      "source": "AD005",
+      "target": "AD038",
+      "score": 0.5173,
+      "text": 0.5439,
+      "visual": 0.9336,
+      "identifier": 0.28,
+      "temporal": 0.5923,
+      "behaviour": 0.125,
+      "graph_context": 0.45
+    },
+    {
+      "source": "AD005",
+      "target": "AD048",
+      "score": 0.4687,
+      "text": 0.0,
+      "visual": 0.9816,
+      "identifier": 0.28,
+      "temporal": 0.7798,
+      "behaviour": 0.375,
+      "graph_context": 0.5714
+    },
+    {
+      "source": "AD005",
+      "target": "AD041",
+      "score": 0.46,
+      "text": 0.0,
+      "visual": 0.9605,
+      "identifier": 0.28,
+      "temporal": 0.7235,
+      "behaviour": 0.375,
+      "graph_context": 0.6111
+    },
+    {
+      "source": "AD005",
+      "target": "AD008",
+      "score": 0.4577,
+      "text": 0.0,
+      "visual": 0.8979,
+      "identifier": 0.28,
+      "temporal": 0.7784,
+      "behaviour": 0.375,
+      "graph_context": 0.6316
+    },
+    {
+      "source": "AD005",
+      "target": "AD026",
+      "score": 0.4523,
+      "text": 0.1984,
+      "visual": 0.5077,
+      "identifier": 0.28,
+      "temporal": 0.7094,
+      "behaviour": 0.8333,
+      "graph_context": 0.2778
+    },
+    {
+      "source": "AD005",
+      "target": "AD010",
+      "score": 0.4432,
+      "text": 0.0,
+      "visual": 0.9129,
+      "identifier": 0.28,
+      "temporal": 0.8928,
+      "behaviour": 0.0833,
+      "graph_context": 0.7222
+    },
+    {
+      "source": "AD005",
+      "target": "AD044",
+      "score": 0.443,
+      "text": 0.0,
+      "visual": 0.9323,
+      "identifier": 0.28,
+      "temporal": 0.7107,
+      "behaviour": 0.3333,
+      "graph_context": 0.5789
+    },
+    {
+      "source": "AD005",
+      "target": "AD013",
+      "score": 0.4394,
+      "text": 0.0,
+      "visual": 0.9636,
+      "identifier": 0.28,
+      "temporal": 0.6832,
+      "behaviour": 0.25,
+      "graph_context": 0.6471
+    },
+    {
+      "source": "AD005",
+      "target": "AD046",
+      "score": 0.4346,
+      "text": 0.0,
+      "visual": 0.9013,
+      "identifier": 0.28,
+      "temporal": 0.7324,
+      "behaviour": 0.4167,
+      "graph_context": 0.4
+    },
+    {
+      "source": "AD006",
+      "target": "AD012",
+      "score": 0.4941,
+      "text": 1.0,
+      "visual": 0.5417,
+      "identifier": 0.28,
+      "temporal": 0.0,
+      "behaviour": 0.625,
+      "graph_context": 0.0
+    },
+    {
+      "source": "AD007",
+      "target": "AD018",
+      "score": 0.4857,
+      "text": 0.0622,
+      "visual": 0.9475,
+      "identifier": 0.82,
+      "temporal": 0.8564,
+      "behaviour": 0.0833,
+      "graph_context": 0.1667
+    },
+    {
+      "source": "AD007",
+      "target": "AD019",
+      "score": 0.4675,
+      "text": 0.2357,
+      "visual": 0.5187,
+      "identifier": 0.4,
+      "temporal": 0.9119,
+      "behaviour": 0.625,
+      "graph_context": 0.1429
+    },
+    {
+      "source": "AD008",
+      "target": "AD041",
+      "score": 0.8238,
+      "text": 1.0,
+      "visual": 0.929,
+      "identifier": 0.46,
+      "temporal": 0.9451,
+      "behaviour": 0.75,
+      "graph_context": 0.6471
+    },
+    {
+      "source": "AD008",
+      "target": "AD044",
+      "score": 0.5904,
+      "text": 0.0805,
+      "visual": 0.9351,
+      "identifier": 0.7,
+      "temporal": 0.4891,
+      "behaviour": 0.9583,
+      "graph_context": 0.6111
+    },
+    {
+      "source": "AD008",
+      "target": "AD046",
+      "score": 0.5866,
+      "text": 0.1883,
+      "visual": 0.8843,
+      "identifier": 0.28,
+      "temporal": 0.954,
+      "behaviour": 0.7917,
+      "graph_context": 0.5882
+    },
+    {
+      "source": "AD008",
+      "target": "AD020",
+      "score": 0.5502,
+      "text": 0.0818,
+      "visual": 0.9209,
+      "identifier": 0.28,
+      "temporal": 0.7829,
+      "behaviour": 0.8333,
+      "graph_context": 0.6111
+    },
+    {
+      "source": "AD008",
+      "target": "AD043",
+      "score": 0.5442,
+      "text": 0.0,
+      "visual": 0.9083,
+      "identifier": 0.7,
+      "temporal": 0.9623,
+      "behaviour": 0.3333,
+      "graph_context": 0.6316
+    },
+    {
+      "source": "AD008",
+      "target": "AD013",
+      "score": 0.5401,
+      "text": 0.0805,
+      "visual": 0.9572,
+      "identifier": 0.52,
+      "temporal": 0.4616,
+      "behaviour": 0.875,
+      "graph_context": 0.5
+    },
+    {
+      "source": "AD008",
+      "target": "AD017",
+      "score": 0.539,
+      "text": 0.3368,
+      "visual": 0.9113,
+      "identifier": 0.7,
+      "temporal": 0.2688,
+      "behaviour": 0.4167,
+      "graph_context": 0.6471
+    },
+    {
+      "source": "AD008",
+      "target": "AD014",
+      "score": 0.4994,
+      "text": 0.0,
+      "visual": 0.941,
+      "identifier": 0.28,
+      "temporal": 0.9857,
+      "behaviour": 0.4167,
+      "graph_context": 0.5882
+    },
+    {
+      "source": "AD008",
+      "target": "AD010",
+      "score": 0.4898,
+      "text": 0.0229,
+      "visual": 0.9461,
+      "identifier": 0.7,
+      "temporal": 0.6712,
+      "behaviour": 0.2083,
+      "graph_context": 0.5789
+    },
+    {
+      "source": "AD008",
+      "target": "AD048",
+      "score": 0.4652,
+      "text": 0.0625,
+      "visual": 0.9517,
+      "identifier": 0.52,
+      "temporal": 0.5582,
+      "behaviour": 0.25,
+      "graph_context": 0.6
+    },
+    {
+      "source": "AD008",
+      "target": "AD045",
+      "score": 0.4625,
+      "text": 0.0,
+      "visual": 0.9508,
+      "identifier": 0.7,
+      "temporal": 0.6466,
+      "behaviour": 0.0833,
+      "graph_context": 0.5789
+    },
+    {
+      "source": "AD008",
+      "target": "AD047",
+      "score": 0.4461,
+      "text": 0.0,
+      "visual": 0.9114,
+      "identifier": 0.46,
+      "temporal": 0.8778,
+      "behaviour": 0.0,
+      "graph_context": 0.6316
+    },
+    {
+      "source": "AD008",
+      "target": "AD035",
+      "score": 0.4432,
+      "text": 0.0,
+      "visual": 0.9011,
+      "identifier": 0.52,
+      "temporal": 0.5685,
+      "behaviour": 0.2083,
+      "graph_context": 0.6842
+    },
+    {
+      "source": "AD008",
+      "target": "AD049",
+      "score": 0.4387,
+      "text": 0.0,
+      "visual": 0.9545,
+      "identifier": 0.28,
+      "temporal": 0.9178,
+      "behaviour": 0.2083,
+      "graph_context": 0.3684
+    },
+    {
+      "source": "AD009",
+      "target": "AD039",
+      "score": 0.4208,
+      "text": 1.0,
+      "visual": 0.1438,
+      "identifier": 0.28,
+      "temporal": 0.0,
+      "behaviour": 0.6667,
+      "graph_context": 0.0
+    },
+    {
+      "source": "AD010",
+      "target": "AD048",
+      "score": 0.6351,
+      "text": 0.1982,
+      "visual": 0.941,
+      "identifier": 0.82,
+      "temporal": 0.8871,
+      "behaviour": 0.5417,
+      "graph_context": 0.6
+    },
+    {
+      "source": "AD010",
+      "target": "AD045",
+      "score": 0.6038,
+      "text": 0.0,
+      "visual": 0.9667,
+      "identifier": 1.0,
+      "temporal": 0.9754,
+      "behaviour": 0.375,
+      "graph_context": 0.5789
+    },
+    {
+      "source": "AD010",
+      "target": "AD039",
+      "score": 0.584,
+      "text": 0.615,
+      "visual": 0.5246,
+      "identifier": 0.28,
+      "temporal": 0.9488,
+      "behaviour": 0.7917,
+      "graph_context": 0.2222
+    },
+    {
+      "source": "AD010",
+      "target": "AD038",
+      "score": 0.5801,
+      "text": 0.1315,
+      "visual": 0.9051,
+      "identifier": 0.58,
+      "temporal": 0.6995,
+      "behaviour": 0.7917,
+      "graph_context": 0.5556
+    },
+    {
+      "source": "AD010",
+      "target": "AD043",
+      "score": 0.5668,
+      "text": 0.1315,
+      "visual": 0.9476,
+      "identifier": 0.7,
+      "temporal": 0.6335,
+      "behaviour": 0.5417,
+      "graph_context": 0.6316
+    },
+    {
+      "source": "AD010",
+      "target": "AD044",
+      "score": 0.56,
+      "text": 0.0175,
+      "visual": 0.9643,
+      "identifier": 1.0,
+      "temporal": 0.8179,
+      "behaviour": 0.25,
+      "graph_context": 0.5263
+    },
+    {
+      "source": "AD010",
+      "target": "AD013",
+      "score": 0.5397,
+      "text": 0.0175,
+      "visual": 0.9691,
+      "identifier": 0.82,
+      "temporal": 0.7904,
+      "behaviour": 0.3333,
+      "graph_context": 0.5
+    },
+    {
+      "source": "AD010",
+      "target": "AD014",
+      "score": 0.5054,
+      "text": 0.1227,
+      "visual": 0.9919,
+      "identifier": 0.28,
+      "temporal": 0.6568,
+      "behaviour": 0.625,
+      "graph_context": 0.4211
+    },
+    {
+      "source": "AD010",
+      "target": "AD047",
+      "score": 0.4815,
+      "text": 0.0,
+      "visual": 0.9321,
+      "identifier": 0.76,
+      "temporal": 0.549,
+      "behaviour": 0.2917,
+      "graph_context": 0.55
+    },
+    {
+      "source": "AD010",
+      "target": "AD017",
+      "score": 0.4621,
+      "text": 0.0175,
+      "visual": 0.9439,
+      "identifier": 0.7,
+      "temporal": 0.5977,
+      "behaviour": 0.125,
+      "graph_context": 0.5556
+    },
+    {
+      "source": "AD010",
+      "target": "AD049",
+      "score": 0.4555,
+      "text": 0.0,
+      "visual": 0.9433,
+      "identifier": 0.28,
+      "temporal": 0.7534,
+      "behaviour": 0.5,
+      "graph_context": 0.3684
+    },
+    {
+      "source": "AD010",
+      "target": "AD035",
+      "score": 0.4549,
+      "text": 0.0,
+      "visual": 0.9218,
+      "identifier": 0.52,
+      "temporal": 0.8973,
+      "behaviour": 0.0833,
+      "graph_context": 0.4545
+    },
+    {
+      "source": "AD010",
+      "target": "AD046",
+      "score": 0.4491,
+      "text": 0.3787,
+      "visual": 0.8828,
+      "identifier": 0.28,
+      "temporal": 0.6251,
+      "behaviour": 0.0,
+      "graph_context": 0.4211
+    },
+    {
+      "source": "AD010",
+      "target": "AD020",
+      "score": 0.4405,
+      "text": 0.0,
+      "visual": 0.9421,
+      "identifier": 0.28,
+      "temporal": 0.8883,
+      "behaviour": 0.0417,
+      "graph_context": 0.7059
+    },
+    {
+      "source": "AD010",
+      "target": "AD041",
+      "score": 0.4349,
+      "text": 0.0229,
+      "visual": 0.9837,
+      "identifier": 0.46,
+      "temporal": 0.6163,
+      "behaviour": 0.0417,
+      "graph_context": 0.6471
+    },
+    {
+      "source": "AD012",
+      "target": "AD028",
+      "score": 0.6519,
+      "text": 0.1887,
+      "visual": 0.9896,
+      "identifier": 0.82,
+      "temporal": 0.8086,
+      "behaviour": 0.75,
+      "graph_context": 0.5
+    },
+    {
+      "source": "AD012",
+      "target": "AD029",
+      "score": 0.5701,
+      "text": 0.0502,
+      "visual": 0.9752,
+      "identifier": 0.28,
+      "temporal": 0.9759,
+      "behaviour": 0.875,
+      "graph_context": 0.4286
+    },
+    {
+      "source": "AD012",
+      "target": "AD022",
+      "score": 0.5152,
+      "text": 0.0,
+      "visual": 0.996,
+      "identifier": 0.58,
+      "temporal": 0.7352,
+      "behaviour": 0.4583,
+      "graph_context": 0.5
+    },
+    {
+      "source": "AD013",
+      "target": "AD044",
+      "score": 0.9207,
+      "text": 1.0,
+      "visual": 0.9548,
+      "identifier": 0.82,
+      "temporal": 0.9725,
+      "behaviour": 0.9167,
+      "graph_context": 0.7333
+    },
+    {
+      "source": "AD013",
+      "target": "AD048",
+      "score": 0.5278,
+      "text": 0.0158,
+      "visual": 0.9697,
+      "identifier": 0.82,
+      "temporal": 0.9033,
+      "behaviour": 0.125,
+      "graph_context": 0.5263
+    },
+    {
+      "source": "AD013",
+      "target": "AD045",
+      "score": 0.5246,
+      "text": 0.0187,
+      "visual": 0.967,
+      "identifier": 0.82,
+      "temporal": 0.815,
+      "behaviour": 0.2083,
+      "graph_context": 0.5
+    },
+    {
+      "source": "AD013",
+      "target": "AD020",
+      "score": 0.51,
+      "text": 0.0627,
+      "visual": 0.9567,
+      "identifier": 0.28,
+      "temporal": 0.6787,
+      "behaviour": 0.7083,
+      "graph_context": 0.5294
+    },
+    {
+      "source": "AD013",
+      "target": "AD017",
+      "score": 0.4899,
+      "text": 0.017,
+      "visual": 0.9785,
+      "identifier": 0.52,
+      "temporal": 0.8073,
+      "behaviour": 0.2917,
+      "graph_context": 0.4706
+    },
+    {
+      "source": "AD013",
+      "target": "AD035",
+      "score": 0.4726,
+      "text": 0.0434,
+      "visual": 0.9616,
+      "identifier": 0.52,
+      "temporal": 0.8931,
+      "behaviour": 0.0833,
+      "graph_context": 0.45
+    },
+    {
+      "source": "AD013",
+      "target": "AD038",
+      "score": 0.471,
+      "text": 0.0,
+      "visual": 0.9501,
+      "identifier": 0.58,
+      "temporal": 0.9091,
+      "behaviour": 0.125,
+      "graph_context": 0.3889
+    },
+    {
+      "source": "AD013",
+      "target": "AD041",
+      "score": 0.4611,
+      "text": 0.0805,
+      "visual": 0.9859,
+      "identifier": 0.28,
+      "temporal": 0.4067,
+      "behaviour": 0.625,
+      "graph_context": 0.4706
+    },
+    {
+      "source": "AD013",
+      "target": "AD046",
+      "score": 0.4444,
+      "text": 0.0715,
+      "visual": 0.9442,
+      "identifier": 0.28,
+      "temporal": 0.4155,
+      "behaviour": 0.6667,
+      "graph_context": 0.3333
+    },
+    {
+      "source": "AD013",
+      "target": "AD043",
+      "score": 0.442,
+      "text": 0.0,
+      "visual": 0.9708,
+      "identifier": 0.52,
+      "temporal": 0.4239,
+      "behaviour": 0.2083,
+      "graph_context": 0.75
+    },
+    {
+      "source": "AD013",
+      "target": "AD047",
+      "score": 0.422,
+      "text": 0.0316,
+      "visual": 0.9636,
+      "identifier": 0.58,
+      "temporal": 0.3394,
+      "behaviour": 0.125,
+      "graph_context": 0.6471
+    },
+    {
+      "source": "AD014",
+      "target": "AD043",
+      "score": 0.758,
+      "text": 0.7483,
+      "visual": 0.9466,
+      "identifier": 0.28,
+      "temporal": 0.9767,
+      "behaviour": 0.9167,
+      "graph_context": 0.5556
+    },
+    {
+      "source": "AD014",
+      "target": "AD038",
+      "score": 0.5922,
+      "text": 0.7483,
+      "visual": 0.9165,
+      "identifier": 0.28,
+      "temporal": 0.3564,
+      "behaviour": 0.5833,
+      "graph_context": 0.3889
+    },
+    {
+      "source": "AD014",
+      "target": "AD047",
+      "score": 0.59,
+      "text": 0.6007,
+      "visual": 0.9341,
+      "identifier": 0.28,
+      "temporal": 0.8922,
+      "behaviour": 0.0833,
+      "graph_context": 0.6471
+    },
+    {
+      "source": "AD014",
+      "target": "AD020",
+      "score": 0.5669,
+      "text": 0.3415,
+      "visual": 0.9538,
+      "identifier": 0.4,
+      "temporal": 0.7686,
+      "behaviour": 0.4167,
+      "graph_context": 0.5294
+    },
+    {
+      "source": "AD014",
+      "target": "AD048",
+      "score": 0.5118,
+      "text": 0.1103,
+      "visual": 0.9532,
+      "identifier": 0.28,
+      "temporal": 0.5439,
+      "behaviour": 0.8333,
+      "graph_context": 0.45
+    },
+    {
+      "source": "AD014",
+      "target": "AD041",
+      "score": 0.4971,
+      "text": 0.0,
+      "visual": 0.9809,
+      "identifier": 0.4,
+      "temporal": 0.9594,
+      "behaviour": 0.3333,
+      "graph_context": 0.4706
+    },
+    {
+      "source": "AD014",
+      "target": "AD046",
+      "score": 0.4678,
+      "text": 0.0,
+      "visual": 0.8714,
+      "identifier": 0.28,
+      "temporal": 0.9683,
+      "behaviour": 0.375,
+      "graph_context": 0.5
+    },
+    {
+      "source": "AD014",
+      "target": "AD044",
+      "score": 0.4358,
+      "text": 0.0327,
+      "visual": 0.9783,
+      "identifier": 0.28,
+      "temporal": 0.4747,
+      "behaviour": 0.375,
+      "graph_context": 0.625
+    },
+    {
+      "source": "AD014",
+      "target": "AD035",
+      "score": 0.4253,
+      "text": 0.0686,
+      "visual": 0.9333,
+      "identifier": 0.28,
+      "temporal": 0.5542,
+      "behaviour": 0.2917,
+      "graph_context": 0.5263
+    },
+    {
+      "source": "AD015",
+      "target": "AD034",
+      "score": 0.4405,
+      "text": 0.2716,
+      "visual": 0.4609,
+      "identifier": 0.28,
+      "temporal": 0.7981,
+      "behaviour": 0.7917,
+      "graph_context": 0.0
+    },
+    {
+      "source": "AD015",
+      "target": "AD019",
+      "score": 0.4363,
+      "text": 1.0,
+      "visual": 0.1498,
+      "identifier": 0.28,
+      "temporal": 0.0,
+      "behaviour": 0.6667,
+      "graph_context": 0.1429
+    },
+    {
+      "source": "AD016",
+      "target": "AD027",
+      "score": 0.5375,
+      "text": 1.0,
+      "visual": -0.1985,
+      "identifier": 0.28,
+      "temporal": 0.9846,
+      "behaviour": 0.9167,
+      "graph_context": 0.0
+    },
+    {
+      "source": "AD016",
+      "target": "AD025",
+      "score": 0.4597,
+      "text": 0.6612,
+      "visual": -0.0544,
+      "identifier": 0.28,
+      "temporal": 0.7135,
+      "behaviour": 0.375,
+      "graph_context": 1.0
+    },
+    {
+      "source": "AD017",
+      "target": "AD035",
+      "score": 0.5824,
+      "text": 0.1212,
+      "visual": 0.962,
+      "identifier": 0.52,
+      "temporal": 0.7003,
+      "behaviour": 0.7917,
+      "graph_context": 0.5789
+    },
+    {
+      "source": "AD017",
+      "target": "AD045",
+      "score": 0.5674,
+      "text": 0.1364,
+      "visual": 0.9762,
+      "identifier": 0.7,
+      "temporal": 0.6223,
+      "behaviour": 0.5,
+      "graph_context": 0.6471
+    },
+    {
+      "source": "AD017",
+      "target": "AD044",
+      "score": 0.534,
+      "text": 0.017,
+      "visual": 0.9635,
+      "identifier": 0.7,
+      "temporal": 0.7798,
+      "behaviour": 0.375,
+      "graph_context": 0.5882
+    },
+    {
+      "source": "AD017",
+      "target": "AD048",
+      "score": 0.4933,
+      "text": 0.0479,
+      "visual": 0.9443,
+      "identifier": 0.52,
+      "temporal": 0.7106,
+      "behaviour": 0.3333,
+      "graph_context": 0.5789
+    },
+    {
+      "source": "AD017",
+      "target": "AD041",
+      "score": 0.4835,
+      "text": 0.3368,
+      "visual": 0.9762,
+      "identifier": 0.46,
+      "temporal": 0.2139,
+      "behaviour": 0.3333,
+      "graph_context": 0.5294
+    },
+    {
+      "source": "AD017",
+      "target": "AD049",
+      "score": 0.4758,
+      "text": 0.1461,
+      "visual": 0.9586,
+      "identifier": 0.4,
+      "temporal": 0.3511,
+      "behaviour": 0.625,
+      "graph_context": 0.4118
+    },
+    {
+      "source": "AD017",
+      "target": "AD047",
+      "score": 0.4593,
+      "text": 0.1431,
+      "visual": 0.9618,
+      "identifier": 0.46,
+      "temporal": 0.1467,
+      "behaviour": 0.5833,
+      "graph_context": 0.5263
+    },
+    {
+      "source": "AD017",
+      "target": "AD043",
+      "score": 0.4523,
+      "text": 0.0,
+      "visual": 0.9875,
+      "identifier": 0.7,
+      "temporal": 0.2312,
+      "behaviour": 0.4167,
+      "graph_context": 0.5263
+    },
+    {
+      "source": "AD017",
+      "target": "AD020",
+      "score": 0.4412,
+      "text": 0.0,
+      "visual": 0.9751,
+      "identifier": 0.28,
+      "temporal": 0.4859,
+      "behaviour": 0.4167,
+      "graph_context": 0.6875
+    },
+    {
+      "source": "AD017",
+      "target": "AD038",
+      "score": 0.4394,
+      "text": 0.0,
+      "visual": 0.9383,
+      "identifier": 0.28,
+      "temporal": 0.8981,
+      "behaviour": 0.0833,
+      "graph_context": 0.625
+    },
+    {
+      "source": "AD020",
+      "target": "AD043",
+      "score": 0.6324,
+      "text": 0.5623,
+      "visual": 0.982,
+      "identifier": 0.28,
+      "temporal": 0.7452,
+      "behaviour": 0.5,
+      "graph_context": 0.6667
+    },
+    {
+      "source": "AD020",
+      "target": "AD041",
+      "score": 0.5879,
+      "text": 0.0818,
+      "visual": 0.96,
+      "identifier": 0.4,
+      "temporal": 0.728,
+      "behaviour": 0.9167,
+      "graph_context": 0.6875
+    },
+    {
+      "source": "AD020",
+      "target": "AD046",
+      "score": 0.5476,
+      "text": 0.0726,
+      "visual": 0.901,
+      "identifier": 0.28,
+      "temporal": 0.7369,
+      "behaviour": 0.9583,
+      "graph_context": 0.5294
+    },
+    {
+      "source": "AD020",
+      "target": "AD044",
+      "score": 0.5429,
+      "text": 0.0627,
+      "visual": 0.9789,
+      "identifier": 0.28,
+      "temporal": 0.7062,
+      "behaviour": 0.7917,
+      "graph_context": 0.6471
+    },
+    {
+      "source": "AD020",
+      "target": "AD038",
+      "score": 0.5356,
+      "text": 0.5623,
+      "visual": 0.9053,
+      "identifier": 0.28,
+      "temporal": 0.5878,
+      "behaviour": 0.1667,
+      "graph_context": 0.5882
+    },
+    {
+      "source": "AD020",
+      "target": "AD047",
+      "score": 0.4884,
+      "text": 0.3292,
+      "visual": 0.9106,
+      "identifier": 0.28,
+      "temporal": 0.6607,
+      "behaviour": 0.1667,
+      "graph_context": 0.5789
+    },
+    {
+      "source": "AD020",
+      "target": "AD048",
+      "score": 0.4665,
+      "text": 0.0,
+      "visual": 0.9128,
+      "identifier": 0.28,
+      "temporal": 0.7753,
+      "behaviour": 0.4167,
+      "graph_context": 0.6316
+    },
+    {
+      "source": "AD020",
+      "target": "AD035",
+      "score": 0.4588,
+      "text": 0.0354,
+      "visual": 0.9313,
+      "identifier": 0.28,
+      "temporal": 0.7856,
+      "behaviour": 0.375,
+      "graph_context": 0.4762
+    },
+    {
+      "source": "AD020",
+      "target": "AD045",
+      "score": 0.4317,
+      "text": 0.0,
+      "visual": 0.9753,
+      "identifier": 0.28,
+      "temporal": 0.8636,
+      "behaviour": 0.0833,
+      "graph_context": 0.5263
+    },
+    {
+      "source": "AD022",
+      "target": "AD028",
+      "score": 0.5151,
+      "text": 0.0,
+      "visual": 0.9892,
+      "identifier": 0.58,
+      "temporal": 0.9266,
+      "behaviour": 0.2083,
+      "graph_context": 0.6
+    },
+    {
+      "source": "AD022",
+      "target": "AD029",
+      "score": 0.4439,
+      "text": 0.0,
+      "visual": 0.9763,
+      "identifier": 0.28,
+      "temporal": 0.7111,
+      "behaviour": 0.3333,
+      "graph_context": 0.5
+    },
+    {
+      "source": "AD026",
+      "target": "AD049",
+      "score": 0.6544,
+      "text": 1.0,
+      "visual": 0.4881,
+      "identifier": 0.28,
+      "temporal": 0.8487,
+      "behaviour": 0.5833,
+      "graph_context": 0.5
+    },
+    {
+      "source": "AD026",
+      "target": "AD045",
+      "score": 0.5126,
+      "text": 0.7222,
+      "visual": 0.3387,
+      "identifier": 0.28,
+      "temporal": 0.5775,
+      "behaviour": 0.7083,
+      "graph_context": 0.2941
+    },
+    {
+      "source": "AD026",
+      "target": "AD035",
+      "score": 0.467,
+      "text": 0.2487,
+      "visual": 0.4677,
+      "identifier": 0.4,
+      "temporal": 0.4995,
+      "behaviour": 1.0,
+      "graph_context": 0.2632
+    },
+    {
+      "source": "AD026",
+      "target": "AD033",
+      "score": 0.4484,
+      "text": 1.0,
+      "visual": 0.2489,
+      "identifier": 0.28,
+      "temporal": 0.1277,
+      "behaviour": 0.5,
+      "graph_context": 0.125
+    },
+    {
+      "source": "AD026",
+      "target": "AD047",
+      "score": 0.4458,
+      "text": 0.1861,
+      "visual": 0.3436,
+      "identifier": 0.28,
+      "temporal": 0.9469,
+      "behaviour": 0.7917,
+      "graph_context": 0.2778
+    },
+    {
+      "source": "AD028",
+      "target": "AD029",
+      "score": 0.5473,
+      "text": 0.0472,
+      "visual": 0.9731,
+      "identifier": 0.28,
+      "temporal": 0.7845,
+      "behaviour": 0.875,
+      "graph_context": 0.5
+    },
+    {
+      "source": "AD031",
+      "target": "AD036",
+      "score": 0.4796,
+      "text": 0.7066,
+      "visual": 0.2177,
+      "identifier": 0.28,
+      "temporal": 0.991,
+      "behaviour": 0.4583,
+      "graph_context": 0.0
+    },
+    {
+      "source": "AD033",
+      "target": "AD049",
+      "score": 0.4655,
+      "text": 1.0,
+      "visual": -0.0708,
+      "identifier": 0.28,
+      "temporal": 0.279,
+      "behaviour": 0.9167,
+      "graph_context": 0.0833
+    },
+    {
+      "source": "AD035",
+      "target": "AD045",
+      "score": 0.6381,
+      "text": 0.2322,
+      "visual": 0.9456,
+      "identifier": 0.52,
+      "temporal": 0.922,
+      "behaviour": 0.7083,
+      "graph_context": 0.6842
+    },
+    {
+      "source": "AD035",
+      "target": "AD048",
+      "score": 0.542,
+      "text": 0.0,
+      "visual": 0.9611,
+      "identifier": 0.52,
+      "temporal": 0.9897,
+      "behaviour": 0.4583,
+      "graph_context": 0.5455
+    },
+    {
+      "source": "AD035",
+      "target": "AD047",
+      "score": 0.5359,
+      "text": 0.2206,
+      "visual": 0.9795,
+      "identifier": 0.28,
+      "temporal": 0.4463,
+      "behaviour": 0.7917,
+      "graph_context": 0.5714
+    },
+    {
+      "source": "AD035",
+      "target": "AD049",
+      "score": 0.5171,
+      "text": 0.2487,
+      "visual": 0.9726,
+      "identifier": 0.28,
+      "temporal": 0.6507,
+      "behaviour": 0.5833,
+      "graph_context": 0.3333
+    },
+    {
+      "source": "AD035",
+      "target": "AD044",
+      "score": 0.4962,
+      "text": 0.0434,
+      "visual": 0.9461,
+      "identifier": 0.52,
+      "temporal": 0.9206,
+      "behaviour": 0.1667,
+      "graph_context": 0.55
+    },
+    {
+      "source": "AD035",
+      "target": "AD043",
+      "score": 0.4752,
+      "text": 0.0357,
+      "visual": 0.9218,
+      "identifier": 0.64,
+      "temporal": 0.5308,
+      "behaviour": 0.375,
+      "graph_context": 0.5
+    },
+    {
+      "source": "AD035",
+      "target": "AD038",
+      "score": 0.4495,
+      "text": 0.0357,
+      "visual": 0.9226,
+      "identifier": 0.28,
+      "temporal": 0.8022,
+      "behaviour": 0.2917,
+      "graph_context": 0.5
+    },
+    {
+      "source": "AD035",
+      "target": "AD042",
+      "score": 0.4486,
+      "text": 0.7254,
+      "visual": 0.1162,
+      "identifier": 0.28,
+      "temporal": 0.9715,
+      "behaviour": 0.375,
+      "graph_context": 0.0
+    },
+    {
+      "source": "AD035",
+      "target": "AD036",
+      "score": 0.422,
+      "text": 0.7337,
+      "visual": 0.1876,
+      "identifier": 0.28,
+      "temporal": 0.8101,
+      "behaviour": 0.25,
+      "graph_context": 0.0
+    },
+    {
+      "source": "AD035",
+      "target": "AD041",
+      "score": 0.4209,
+      "text": 0.0,
+      "visual": 0.9511,
+      "identifier": 0.28,
+      "temporal": 0.5136,
+      "behaviour": 0.4583,
+      "graph_context": 0.4286
+    },
+    {
+      "source": "AD038",
+      "target": "AD043",
+      "score": 0.685,
+      "text": 1.0,
+      "visual": 0.9095,
+      "identifier": 0.28,
+      "temporal": 0.333,
+      "behaviour": 0.6667,
+      "graph_context": 0.6111
+    },
+    {
+      "source": "AD038",
+      "target": "AD048",
+      "score": 0.6098,
+      "text": 0.1182,
+      "visual": 0.9611,
+      "identifier": 0.58,
+      "temporal": 0.8125,
+      "behaviour": 0.75,
+      "graph_context": 0.6667
+    },
+    {
+      "source": "AD038",
+      "target": "AD047",
+      "score": 0.5164,
+      "text": 0.332,
+      "visual": 0.9458,
+      "identifier": 0.58,
+      "temporal": 0.2485,
+      "behaviour": 0.5,
+      "graph_context": 0.45
+    },
+    {
+      "source": "AD038",
+      "target": "AD045",
+      "score": 0.5042,
+      "text": 0.0,
+      "visual": 0.9528,
+      "identifier": 0.58,
+      "temporal": 0.7241,
+      "behaviour": 0.4167,
+      "graph_context": 0.5556
+    },
+    {
+      "source": "AD038",
+      "target": "AD039",
+      "score": 0.4751,
+      "text": 0.1476,
+      "visual": 0.5798,
+      "identifier": 0.28,
+      "temporal": 0.7508,
+      "behaviour": 1.0,
+      "graph_context": 0.1765
+    },
+    {
+      "source": "AD038",
+      "target": "AD044",
+      "score": 0.4594,
+      "text": 0.0,
+      "visual": 0.9193,
+      "identifier": 0.58,
+      "temporal": 0.8816,
+      "behaviour": 0.0417,
+      "graph_context": 0.5
+    },
+    {
+      "source": "AD039",
+      "target": "AD048",
+      "score": 0.4702,
+      "text": 0.1631,
+      "visual": 0.5996,
+      "identifier": 0.28,
+      "temporal": 0.9383,
+      "behaviour": 0.75,
+      "graph_context": 0.1429
+    },
+    {
+      "source": "AD039",
+      "target": "AD046",
+      "score": 0.4333,
+      "text": 0.7347,
+      "visual": 0.3928,
+      "identifier": 0.28,
+      "temporal": 0.5739,
+      "behaviour": 0.2083,
+      "graph_context": 0.1176
+    },
+    {
+      "source": "AD039",
+      "target": "AD043",
+      "score": 0.4273,
+      "text": 0.1476,
+      "visual": 0.6098,
+      "identifier": 0.4,
+      "temporal": 0.5823,
+      "behaviour": 0.6667,
+      "graph_context": 0.2105
+    },
+    {
+      "source": "AD041",
+      "target": "AD046",
+      "score": 0.6205,
+      "text": 0.1883,
+      "visual": 0.914,
+      "identifier": 0.28,
+      "temporal": 0.9911,
+      "behaviour": 0.9583,
+      "graph_context": 0.5625
+    },
+    {
+      "source": "AD041",
+      "target": "AD043",
+      "score": 0.5342,
+      "text": 0.0,
+      "visual": 0.9706,
+      "identifier": 0.46,
+      "temporal": 0.9828,
+      "behaviour": 0.4167,
+      "graph_context": 0.6111
+    },
+    {
+      "source": "AD041",
+      "target": "AD044",
+      "score": 0.5139,
+      "text": 0.0805,
+      "visual": 0.9731,
+      "identifier": 0.46,
+      "temporal": 0.4342,
+      "behaviour": 0.7083,
+      "graph_context": 0.5882
+    },
+    {
+      "source": "AD041",
+      "target": "AD047",
+      "score": 0.4882,
+      "text": 0.0,
+      "visual": 0.9458,
+      "identifier": 0.46,
+      "temporal": 0.9327,
+      "behaviour": 0.25,
+      "graph_context": 0.5263
+    },
+    {
+      "source": "AD041",
+      "target": "AD048",
+      "score": 0.4578,
+      "text": 0.0625,
+      "visual": 0.9587,
+      "identifier": 0.28,
+      "temporal": 0.5033,
+      "behaviour": 0.5,
+      "graph_context": 0.5789
+    },
+    {
+      "source": "AD041",
+      "target": "AD045",
+      "score": 0.4427,
+      "text": 0.0,
+      "visual": 0.976,
+      "identifier": 0.46,
+      "temporal": 0.5916,
+      "behaviour": 0.1667,
+      "graph_context": 0.6471
+    },
+    {
+      "source": "AD043",
+      "target": "AD048",
+      "score": 0.578,
+      "text": 0.1182,
+      "visual": 0.9058,
+      "identifier": 0.52,
+      "temporal": 0.5206,
+      "behaviour": 0.9167,
+      "graph_context": 0.7368
+    },
+    {
+      "source": "AD043",
+      "target": "AD047",
+      "score": 0.5684,
+      "text": 0.332,
+      "visual": 0.928,
+      "identifier": 0.46,
+      "temporal": 0.9155,
+      "behaviour": 0.1667,
+      "graph_context": 0.6842
+    },
+    {
+      "source": "AD043",
+      "target": "AD046",
+      "score": 0.4998,
+      "text": 0.0,
+      "visual": 0.9236,
+      "identifier": 0.28,
+      "temporal": 0.9916,
+      "behaviour": 0.4583,
+      "graph_context": 0.5556
+    },
+    {
+      "source": "AD043",
+      "target": "AD044",
+      "score": 0.4739,
+      "text": 0.0,
+      "visual": 0.9539,
+      "identifier": 0.7,
+      "temporal": 0.4514,
+      "behaviour": 0.2917,
+      "graph_context": 0.6667
+    },
+    {
+      "source": "AD043",
+      "target": "AD045",
+      "score": 0.4566,
+      "text": 0.0,
+      "visual": 0.9639,
+      "identifier": 0.7,
+      "temporal": 0.6089,
+      "behaviour": 0.0833,
+      "graph_context": 0.55
+    },
+    {
+      "source": "AD044",
+      "target": "AD045",
+      "score": 0.5595,
+      "text": 0.0187,
+      "visual": 0.993,
+      "identifier": 1.0,
+      "temporal": 0.8425,
+      "behaviour": 0.125,
+      "graph_context": 0.6111
+    },
+    {
+      "source": "AD044",
+      "target": "AD048",
+      "score": 0.5498,
+      "text": 0.0158,
+      "visual": 0.9439,
+      "identifier": 0.82,
+      "temporal": 0.9308,
+      "behaviour": 0.2083,
+      "graph_context": 0.6316
+    },
+    {
+      "source": "AD044",
+      "target": "AD046",
+      "score": 0.463,
+      "text": 0.0715,
+      "visual": 0.8988,
+      "identifier": 0.28,
+      "temporal": 0.443,
+      "behaviour": 0.75,
+      "graph_context": 0.4444
+    },
+    {
+      "source": "AD044",
+      "target": "AD047",
+      "score": 0.4451,
+      "text": 0.0316,
+      "visual": 0.927,
+      "identifier": 0.76,
+      "temporal": 0.3669,
+      "behaviour": 0.0417,
+      "graph_context": 0.7647
+    },
+    {
+      "source": "AD045",
+      "target": "AD049",
+      "score": 0.6971,
+      "text": 0.7222,
+      "visual": 0.9478,
+      "identifier": 0.28,
+      "temporal": 0.7288,
+      "behaviour": 0.875,
+      "graph_context": 0.4444
+    },
+    {
+      "source": "AD045",
+      "target": "AD047",
+      "score": 0.6253,
+      "text": 0.1738,
+      "visual": 0.9428,
+      "identifier": 0.76,
+      "temporal": 0.5244,
+      "behaviour": 0.9167,
+      "graph_context": 0.6316
+    },
+    {
+      "source": "AD045",
+      "target": "AD048",
+      "score": 0.5365,
+      "text": 0.0,
+      "visual": 0.9588,
+      "identifier": 0.82,
+      "temporal": 0.9117,
+      "behaviour": 0.1667,
+      "graph_context": 0.6
+    },
+    {
+      "source": "AD046",
+      "target": "AD047",
+      "score": 0.4463,
+      "text": 0.0,
+      "visual": 0.9725,
+      "identifier": 0.28,
+      "temporal": 0.9239,
+      "behaviour": 0.2083,
+      "graph_context": 0.4
+    },
+    {
+      "source": "AD046",
+      "target": "AD048",
+      "score": 0.442,
+      "text": 0.0183,
+      "visual": 0.8963,
+      "identifier": 0.28,
+      "temporal": 0.5122,
+      "behaviour": 0.4583,
+      "graph_context": 0.7059
+    },
+    {
+      "source": "AD047",
+      "target": "AD049",
+      "score": 0.5688,
+      "text": 0.1861,
+      "visual": 0.9611,
+      "identifier": 0.28,
+      "temporal": 0.7956,
+      "behaviour": 0.7917,
+      "graph_context": 0.5
+    },
+    {
+      "source": "AD047",
+      "target": "AD048",
+      "score": 0.4367,
+      "text": 0.0,
+      "visual": 0.9481,
+      "identifier": 0.58,
+      "temporal": 0.4361,
+      "behaviour": 0.25,
+      "graph_context": 0.5714
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "candidate_operations": [
+    {
+      "operation_id": "OP-031",
+      "members": [
+        "AD004",
+        "AD005",
+        "AD008",
+        "AD010",
+        "AD013",
+        "AD014",
+        "AD017",
+        "AD020",
+        "AD026",
+        "AD033",
+        "AD035",
+        "AD038",
+        "AD039",
+        "AD041",
+        "AD043",
+        "AD044",
+        "AD045",
+        "AD046",
+        "AD047",
+        "AD048",
+        "AD049"
+      ],
+      "size": 21,
+      "ground_truth_composition": {
+        "OP-031": 18,
+        "NOISE-3": 1,
+        "NOISE-5": 1,
+        "NOISE-0": 1
+      }
+    },
+    {
+      "operation_id": "OP-002",
+      "members": [
+        "AD003",
+        "AD006",
+        "AD012",
+        "AD022",
+        "AD028",
+        "AD029"
+      ],
+      "size": 6,
+      "ground_truth_composition": {
+        "OP-002": 5,
+        "NOISE-18": 1
+      }
+    },
+    {
+      "operation_id": "OP-003",
+      "members": [
+        "AD001",
+        "AD002",
+        "AD007",
+        "AD018",
+        "AD019"
+      ],
+      "size": 5,
+      "ground_truth_composition": {
+        "OP-003": 4,
+        "NOISE-8": 1
+      }
+    },
+    {
+      "operation_id": "CANDIDATE-004",
+      "members": [
+        "AD016",
+        "AD027"
+      ],
+      "size": 2,
+      "ground_truth_composition": {
+        "NOISE-11": 1,
+        "NOISE-1": 1
+      }
+    },
+    {
+      "operation_id": "CANDIDATE-005",
+      "members": [
+        "AD031",
+        "AD036"
+      ],
+      "size": 2,
+      "ground_truth_composition": {
+        "NOISE-22": 1,
+        "NOISE-19": 1
+      }
+    }
+  ],
+  "num_singletons": 14
+}

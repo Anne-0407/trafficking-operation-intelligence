@@ -1,0 +1,82 @@
+[
+  {
+    "ad_id": "AD005",
+    "changes_applied": [
+      "identifier_replacement:phone",
+      "identifier_replacement:username",
+      "text_paraphrasing",
+      "visual_transformation",
+      "location_variation"
+    ]
+  },
+  {
+    "ad_id": "AD038",
+    "changes_applied": [
+      "identifier_replacement:phone",
+      "identifier_replacement:username",
+      "text_paraphrasing",
+      "visual_transformation",
+      "location_variation"
+    ]
+  },
+  {
+    "ad_id": "AD013",
+    "changes_applied": [
+      "identifier_replacement:phone",
+      "identifier_replacement:username",
+      "text_paraphrasing",
+      "visual_transformation"
+    ]
+  },
+  {
+    "ad_id": "AD020",
+    "changes_applied": [
+      "identifier_replacement:phone",
+      "text_paraphrasing",
+      "visual_transformation"
+    ]
+  },
+  {
+    "ad_id": "AD014",
+    "changes_applied": [
+      "identifier_replacement:phone",
+      "identifier_replacement:username",
+      "text_paraphrasing",
+      "visual_transformation"
+    ]
+  },
+  {
+    "ad_id": "AD041",
+    "changes_applied": [
+      "identifier_replacement:phone",
+      "identifier_replacement:username",
+      "text_paraphrasing",
+      "visual_transformation"
+    ]
+  },
+  {
+    "ad_id": "AD043",
+    "changes_applied": [
+      "identifier_replacement:phone",
+      "text_paraphrasing",
+      "visual_transformation"
+    ]
+  },
+  {
+    "ad_id": "AD049",
+    "changes_applied": [
+      "text_paraphrasing",
+      "visual_transformation"
+    ]
+  },
+  {
+    "ad_id": "AD046",
+    "changes_applied": [
+      "identifier_replacement:phone",
+      "identifier_replacement:username",
+      "text_paraphrasing",
+      "visual_transformation",
+      "location_variation"
+    ]
+  }
+]

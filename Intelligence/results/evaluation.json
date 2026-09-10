@@ -1,0 +1,55 @@
+{
+  "original": {
+    "exact_identifier_baseline": {
+      "known_relationships_total": 169,
+      "known_relationships_recovered": 3,
+      "precision": 1.0,
+      "recall": 0.0178,
+      "f1": 0.0349,
+      "false_positives": 0
+    },
+    "text_only_baseline": {
+      "known_relationships_total": 169,
+      "known_relationships_recovered": 14,
+      "precision": 0.1386,
+      "recall": 0.0828,
+      "f1": 0.1037,
+      "false_positives": 87
+    },
+    "proposed_combined_approach": {
+      "known_relationships_total": 169,
+      "known_relationships_recovered": 151,
+      "precision": 0.858,
+      "recall": 0.8935,
+      "f1": 0.8754,
+      "false_positives": 25
+    }
+  },
+  "changed": {
+    "exact_identifier_baseline": {
+      "known_relationships_total": 169,
+      "known_relationships_recovered": 3,
+      "precision": 1.0,
+      "recall": 0.0178,
+      "f1": 0.0349,
+      "false_positives": 0
+    },
+    "text_only_baseline": {
+      "known_relationships_total": 169,
+      "known_relationships_recovered": 3,
+      "precision": 0.0375,
+      "recall": 0.0178,
+      "f1": 0.0241,
+      "false_positives": 77
+    },
+    "proposed_combined_approach": {
+      "known_relationships_total": 169,
+      "known_relationships_recovered": 71,
+      "precision": 0.7553,
+      "recall": 0.4201,
+      "f1": 0.5399,
+      "false_positives": 23
+    }
+  },
+  "conclusion": "Simple baselines (exact identifier / text-only) lose recall on the changed dataset after controlled evasion changes. The proposed combined approach retains more of the known OP-031/OP-002/OP-003 relationships because it aggregates multiple weak signals plus graph context instead of depending on any single field."
+}
