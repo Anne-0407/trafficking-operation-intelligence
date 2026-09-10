@@ -1,3 +1,30 @@
+# Trafficking Operation Intelligence Platform
+
+> **Don't just detect the ad. Find the operation behind it.**
+
+An AI-assisted investigation intelligence prototype designed to help authorized investigators connect fragmented digital records into **candidate operational clusters**.
+
+Digital records associated with the same underlying operation can change over time — phone numbers, usernames, images, wording, locations, and posting patterns may all vary. Simple matching can therefore miss relationships between records.
+
+This prototype combines **text, visual, identifier, temporal, behavioral, and graph signals** to identify potentially meaningful relationships and present the supporting evidence to a human investigator.
+
+---
+
+## What the Prototype Does
+
+```text
+Digital Records
+      ↓
+Multi-Signal Analysis
+      ↓
+Candidate Relationships
+      ↓
+Operation Graph
+      ↓
+Evidence & Timeline
+      ↓
+Human Review
+
 #Trafficking Operation Intelligence Platform
 
 Don't just detect the ad. Find the operation behind it.
